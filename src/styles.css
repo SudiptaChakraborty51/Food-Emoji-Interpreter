@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav {
+  background-color: #fed7aa;
+}
+
+nav h1 {
+  color: #f97316;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 1rem;
+  margin-top: 0rem;
+}
+
+input {
+  font-size: larger;
+  border: 3px solid #f97316;
+  border-radius: 1rem;
+  width: 80%;
+  padding: 1rem;
+}
+
+.Result {
+  color: #f97316;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+span {
+  font-size: 2rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 3rem;
+  background-color: #fed7aa;
+  text-align: center;
+  padding: 1rem 0rem 0rem 1rem;
+}
+
+.footer-list {
+  padding-inline-start: 0px;
+}
+
+.social-media {
+  list-style: none;
+  display: inline-block;
+  padding: 1rem;
+}
+
+.portfolio {
+  text-decoration: none;
+  color: #f97316;
+  font-size: 1.2rem;
+}
