@@ -14,3 +14,6 @@ For example, You could also make an interpreter for food or flags, or any other 
 * Display the name on the emoji on click.
 * Display the name of the emoji on input in the search box.
 * Display a message for emoji not found.
+
+#### Tech-Stack
+1. ReactJS
